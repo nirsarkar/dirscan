@@ -71,11 +71,21 @@ misc
   -X             - print built-in user-agents
   -V             - print version of lulzbuster and exit
   -H             - print this help and exit
-```
+  
+  
+  
+  
+  
+Install kali linux 
+sudo apt install libcurl4 libcurl4-openssl-dev
+git https://github.com/nirsarkar/dirscan/
+cd dirscan
+make lulzbuster
+sudo make install
 
 # Author
 
-noptrix
+noptrix & edit By Nir sarkar 
 
 # Notes
 
