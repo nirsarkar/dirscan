@@ -1,0 +1,5 @@
+sudo apt install libcurl4 libcurl4-openssl-dev
+git clone https://github.com/noptrix/lulzbuster
+cd lulzbuster
+make lulzbuster
+sudo make install
